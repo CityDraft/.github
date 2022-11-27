@@ -1,3 +1,1 @@
-CityDraft is a tool designed for civil engineers that aims to create more sustainable cities.
-It involves AI that recognizes city model and analyses possible shortcomings like inefficient road systems
-or propability of noise and air pollutions.
+CityDraft is a tool designed for civil engineers that aims to help create more sustainable cities. It aims to empower engineers by creating versatile toolset for AI analysis of infrastructure projects. It involves AI that recognises city model and analyses possible shortcomings like inefficient road and public transport systems or probability of noise and air pollutions.
